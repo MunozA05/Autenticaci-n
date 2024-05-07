@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\student\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\student\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\subject\\subject.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\subject\\subject.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\teacher\\teacher.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\teacher\\teacher.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +55,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:58:38.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:58:26.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:55:14.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginStatusPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:49:32.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Teacher\\Teacher.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml.cs",
+              "RelativeToolTip": "Pages\\Teacher\\Teacher.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:27:36.621Z",
+              "WhenOpened": "2024-05-07T18:43:49.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Subject\\Subject.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Subject\\Subject.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Subject\\Subject.cshtml.cs",
+              "RelativeToolTip": "Pages\\Subject\\Subject.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:43:48.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Student\\Student.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Student\\Student.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Student\\Student.cshtml.cs",
+              "RelativeToolTip": "Pages\\Student\\Student.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:43:47.791Z",
               "EditorCaption": ""
             }
           ]
