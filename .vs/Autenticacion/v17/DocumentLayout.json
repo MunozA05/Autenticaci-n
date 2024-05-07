@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\teacher\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\teacher\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\subject\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\subject\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\autenticacion\\pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6872BAA4-737B-4E55-B6BD-8F1B7DBAC7C8}|Autenticacion.csproj|solutionrelative:pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 339,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +39,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T17:07:57.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Teacher\\Teacher.cshtml",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Teacher\\Teacher.cshtml",
+              "RelativeToolTip": "Pages\\Teacher\\Teacher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T17:02:07.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Subject\\Subject.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Subject\\Subject.cshtml",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Subject\\Subject.cshtml",
+              "RelativeToolTip": "Pages\\Subject\\Subject.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T17:01:15.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Student\\Student.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Student\\Student.cshtml",
+              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\Autenticacion\\Pages\\Student\\Student.cshtml",
+              "RelativeToolTip": "Pages\\Student\\Student.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T17:00:24.242Z",
+              "EditorCaption": ""
             }
           ]
         },
